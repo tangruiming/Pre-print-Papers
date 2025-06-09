@@ -98,6 +98,9 @@ This folder includes my first-authored papers, corresponding-authored papers and
 30. PAL: a position-bias aware learning framework for CTR prediction in live recommender systems. *RecSys 2019, Copenhagen, Denmark*. <br>
     Huifeng Guo, Jinkai Yu, Qing Liu, **Ruiming Tang***, Yuzhou Zhang. [*: Corresponding author.] <br>
     Paper link: https://github.com/tangruiming/Selected-Publications/blob/master/Corresponding-2019-PAL-RecSys.pdf
+31. Order-aware embedding neural network for CTR prediction. *SIGIR 2019, Paris, France*. <br>
+    Wei Guo, **Ruiming Tang***, Huifeng Guo, Jianhua Han, Wen Yang, Yuzhou Zhang. [*: Corresponding author.] <br>
+    Paper link: https://github.com/tangruiming/Selected-Publications/blob/master/Corresponding-2019-OENN-SIGIR.pdf
 
 
 ## Other Representative papers
