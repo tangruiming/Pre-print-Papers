@@ -13,48 +13,51 @@ This folder includes my first-authored papers, corresponding-authored papers and
 1. How can recommender systems benefit from large language models: A survey. *TOIS 2025*. <br>
    Jianghao Lin, Xinyi Dai, Yunjia Xi, Weiwen Liu, Bo Chen, Hao Zhang, Yong Liu, Chuhan Wu, Xiangyang Li, Chenxu Zhu, Huifeng Guo, Yong Yu, **Ruiming Tang***, **Weinan Zhang***. [*: I and Weinan are both corresponding authors.] <br>
    Paper link: https://github.com/tangruiming/Selected-Publications/blob/master/Corresponding-2025-HowLLM-Survey-TOIS.pdf
-2. Diffusion augmentation for sequential recommendation. *CIKM 2023, Birmingham, UK*. <br>
+2. Coarse-to-fine knowledge-enhanced multi-interest learning framework for multi-behavior recommendation. *TOIS 2023*. <br>
+   Chang Meng, Ziqi Zhao, Wei Guo, Yingxue Zhang, Haolun Wu, Chen Gao, **Dong Li***, Xiu Li, **Ruiming Tang***. [*: I and Dong are both corresponding authors.] <br>
+   Paper link: https://github.com/tangruiming/Selected-Publications/blob/master/Corresponding-2023-CKML-TOIS.pdf
+3. Diffusion augmentation for sequential recommendation. *CIKM 2023, Birmingham, UK*. <br>
    Qidong Liu, Fan Yan, **Xiangyu Zhao***, Zhaocheng Du, Huifeng Guo, **Ruiming Tang***, Feng Tian. [*: I and Xiangyu are both corresponding authors.] <br>
    Paper link: https://github.com/tangruiming/Selected-Publications/blob/master/Corresponding-2023-DiffuASR-CIKM.pdf
-3. Multi-task deep recommender systems: A survey. *ArXiv 2023*. <br>
+4. Multi-task deep recommender systems: A survey. *ArXiv 2023*. <br>
    Yuhao Wang, Ha Tsz Lam, Yi Wong, Ziru Liu, **Xiangyu Zhao***, Yichao Wang, Bo Chen, Huifeng Guo, **Ruiming Tang***. [*: I and Xiangyu are both corresponding authors.] <br>
    Paper link: https://github.com/tangruiming/Selected-Publications/blob/master/Corresponding-2023-MultiTask-Survey-ArXiv.pdf
-4. Multi-behavior sequential transformer recommender. *SIGIR 2022, Madrid, Spain*. <br>
+5. Multi-behavior sequential transformer recommender. *SIGIR 2022, Madrid, Spain*. <br>
    Enming Yuan, Wei Guo, Zhicheng He, Huifeng Guo, Chengkai Liu, **Ruiming Tang***. [*: Corresponding author.] <br>
    Paper link: https://github.com/tangruiming/Selected-Publications/blob/master/Corresponding-2022-MBSTR-SIGIR.pdf
-5. Neural re-ranking in multi-stage recommender systems: A review. *IJCAI 2022, Messe Wien, Vienna, Austria*. <br>
+6. Neural re-ranking in multi-stage recommender systems: A review. *IJCAI 2022, Messe Wien, Vienna, Austria*. <br>
    Weiwen Liu, Yunjia Xi, Jiarui Qin, Fei Sun, Bo Chen, Weinan Zhang, **Rui Zhang***, **Ruiming Tang***. [*: I and Rui are both corresponding authors.] <br>
    Paper link: https://github.com/tangruiming/Selected-Publications/blob/master/Corresponding-2022-Reranking-Survey-IJCAI.pdf
-6. Miss: Multi-interest self-supervised learning framework for click-through rate prediction. *ICDE 2022, Kuala Lumpur, Malaysia*. <br>
+7. Miss: Multi-interest self-supervised learning framework for click-through rate prediction. *ICDE 2022, Kuala Lumpur, Malaysia*. <br>
    Wei Guo, Can Zhang, Zhicheng He, Jiarui Qin, Huifeng Guo, Bo Chen, **Ruiming Tang***, Xiuqiang He, **Rui Zhang***. [*: I and Rui are both corresponding authors.] <br>
    Paper link: https://github.com/tangruiming/Selected-Publications/blob/master/Corresponding-2022-MISS-ICDE.pdf
-7. Deep learning for click-through rate estimation. *IJCAI 2021, Virtual Conference*. <br>
+8. Deep learning for click-through rate estimation. *IJCAI 2021, Virtual Conference*. <br>
    Weinan Zhang, Jiarui Qin, Wei Guo, **Ruiming Tang***, Xiuqiang He. [*: Corresponding author.] <br>
    Paper link: https://github.com/tangruiming/Selected-Publications/blob/master/Corresponding-2021-DeepCTR-Survey-IJCAI.pdf
-8. An embedding learning framework for numerical features in ctr prediction. *KDD 2021, Singapore*. <br>
+9. An embedding learning framework for numerical features in ctr prediction. *KDD 2021, Singapore*. <br>
    Huifeng Guo, Bo Chen, **Ruiming Tang***, Weinan Zhang, Zhenguo Li, Xiuqiang He. [*: Corresponding author.] <br>
    Paper link: https://github.com/tangruiming/Selected-Publications/blob/master/Corresponding-2021-AutoDis-KDD.pdf
-9. Dual graph enhanced embedding neural network for CTR prediction. *KDD 2021, Singapore*. <br>
+10. Dual graph enhanced embedding neural network for CTR prediction. *KDD 2021, Singapore*. <br>
    Wei Guo, Rong Su, Renhao Tan, Huifeng Guo, Yingxue Zhang, Zhirong Liu, **Ruiming Tang***, Xiuqiang He. [*: Corresponding author.] <br>
    Paper link: https://github.com/tangruiming/Selected-Publications/blob/master/Corresponding-2021-DGENN-KDD.pdf
-10. Enhancing explicit and implicit feature interactions via information sharing for parallel deep CTR models. *CIKM 2021, Gold Coast, Queensland, Australia*
+11. Enhancing explicit and implicit feature interactions via information sharing for parallel deep CTR models. *CIKM 2021, Gold Coast, Queensland, Australia*
    Bo Chen, Yichao Wang, Zhirong Liu, **Ruiming Tang***, Wei Guo, Hongkun Zheng, Weiwei Yao, Muyu Zhang, Xiuqiang He. [*: Corresponding author.] <br>
    Paper link: https://github.com/tangruiming/Selected-Publications/blob/master/Corresponding-2021-EDCN-CIKM.pdf
-11. AutoFIS: Automatic feature interaction selection in factorization models for click-through rate prediction. *KDD 2020, Virtual Conference*. <br>
+12. AutoFIS: Automatic feature interaction selection in factorization models for click-through rate prediction. *KDD 2020, Virtual Conference*. <br>
     Bin Liu, Chenxu Zhu, Guilin Li, Weinan Zhang*, Jincai Lai, **Ruiming Tang***, Xiuqiang He, Zhenguo Li, Yong Yu. [*: I and Weinan are both corresponding authors. This paper was selected as one of the best paper candidates for ADS track.] <br>
     Paper link: https://github.com/tangruiming/Selected-Publications/blob/master/Corresponding-2020-AutoFIS-KDD.pdf
-12. AutoGroup: Automatic feature grouping for modelling explicit high-order feature interactions in CTR prediction. *SIGIR 2020, Virtual Conference*. <br>
+13. AutoGroup: Automatic feature grouping for modelling explicit high-order feature interactions in CTR prediction. *SIGIR 2020, Virtual Conference*. <br>
     Bin Liu, Niannan Xue, Huifeng Guo, **Ruiming Tang***, Stefanos Zafeiriou, Xiuqiang He, Zhenguo Li. [*: Corresponding author.] <br>
-13. Autofeature: Searching for feature interactions and their architectures for click-through rate prediction. *CIKM 2020, Virtual Conference*. <br>
+14. Autofeature: Searching for feature interactions and their architectures for click-through rate prediction. *CIKM 2020, Virtual Conference*. <br>
     Farhan Khawar, **Xu Hang***, **Ruiming Tang***, Bin Liu, Zhenguo Li, Xiuqiang He. [*: I and Hang are both corresponding authors.] <br>
     Paper link: https://github.com/tangruiming/Selected-Publications/blob/master/Corresponding-2020-AutoFeature-CIKM.pdf
-14. TGCN: Tag graph convolutional network for tag-aware recommendation. *CIKM 2020, Virtual Conference*. <br>
+15. TGCN: Tag graph convolutional network for tag-aware recommendation. *CIKM 2020, Virtual Conference*. <br>
     Bo Chen, Wei Guo, **Ruiming Tang***, Xin Xin, Yue Ding, Xiuqiang He, **Dong Wang***. [*: I and Dong are both corresponding authors.] <br>
     Paper link: https://github.com/tangruiming/Selected-Publications/blob/master/Corresponding-2020-TGCN-CIKM.pdf
-15. Feature generation by convolutional neural network for click-through rate prediction. *The WebConf 2019, San Francisco, USA*. <br>
+16. Feature generation by convolutional neural network for click-through rate prediction. *The WebConf 2019, San Francisco, USA*. <br>
     Bin Liu, **Ruiming Tang***, Yingzhi Chen, Jinkai Yu, Huifeng Guo, Yuzhou Zhang. [*: Corresponding author.] <br>
     Paper link: https://github.com/tangruiming/Selected-Publications/blob/master/Corresponding-2019-FGCNN-WWW.pdf
-16. PAL: a position-bias aware learning framework for CTR prediction in live recommender systems. *RecSys 2019, Copenhagen, Denmark*. <br>
+17. PAL: a position-bias aware learning framework for CTR prediction in live recommender systems. *RecSys 2019, Copenhagen, Denmark*. <br>
     Huifeng Guo, Jinkai Yu, Qing Liu, **Ruiming Tang***, Yuzhou Zhang. [*: Corresponding author.] <br>
     Paper link: https://github.com/tangruiming/Selected-Publications/blob/master/Corresponding-2019-PAL-RecSys.pdf
 
