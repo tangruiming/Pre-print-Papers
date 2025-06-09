@@ -13,10 +13,13 @@ This folder includes my first-authored papers, corresponding-authored papers and
 1. How can recommender systems benefit from large language models: A survey. *TOIS 2025*. <br>
    Jianghao Lin, Xinyi Dai, Yunjia Xi, Weiwen Liu, Bo Chen, Hao Zhang, Yong Liu, Chuhan Wu, Xiangyang Li, Chenxu Zhu, Huifeng Guo, Yong Yu, **Ruiming Tang***, **Weinan Zhang***. [*: I and Weinan are both corresponding authors.] <br>
    Paper link: https://github.com/tangruiming/Selected-Publications/blob/master/Corresponding-2025-HowLLM-Survey-TOIS.pdf
-2. Coarse-to-fine knowledge-enhanced multi-interest learning framework for multi-behavior recommendation. *TOIS 2023*. <br>
+2. Entropy law: The story behind data compression and LLM performance. *ArXiv 2024*. <br>
+   Mingjia Yin, **Chuhan Wu***, Yufei Wang, **Hao Wang***, Wei Guo, Yasheng Wang, Yong Liu, **Ruiming Tang***, Defu Lian, **Enhong Chen***. [*: I, Chuhan, Hao and Enhong are both corresponding authors.] <br>
+   Paper link: https://github.com/tangruiming/Selected-Publications/blob/master/Corresponding-2024-EntropyLaw-ArXiv.pdf
+3. Coarse-to-fine knowledge-enhanced multi-interest learning framework for multi-behavior recommendation. *TOIS 2023*. <br>
    Chang Meng, Ziqi Zhao, Wei Guo, Yingxue Zhang, Haolun Wu, Chen Gao, **Dong Li***, Xiu Li, **Ruiming Tang***. [*: I and Dong are both corresponding authors.] <br>
    Paper link: https://github.com/tangruiming/Selected-Publications/blob/master/Corresponding-2023-CKML-TOIS.pdf
-3. A unified framework for multi-domain ctr prediction via large language models. *TOIS 2023*. <br>
+4. A unified framework for multi-domain ctr prediction via large language models. *TOIS 2023*. <br>
    Zichuan Fu, Xiangyang Li, Chuhan Wu, Yichao Wang, Kuicai Dong, **Xiangyu Zhao***, Mengchen Zhao, Huifeng Guo, **Ruiming Tang***. [*: I and Xiangyu are both corresponding authors.] <br>
    Paper link: https://github.com/tangruiming/Selected-Publications/blob/master/Corresponding-2023-Uni-CTR.pdf
 5. Hierarchical projection enhanced multi-behavior recommendation. *KDD 2023, Long Beach, CA, USA* <br>
