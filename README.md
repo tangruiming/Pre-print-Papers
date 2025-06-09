@@ -64,7 +64,7 @@ This folder includes my first-authored papers, corresponding-authored papers and
 18. Dual graph enhanced embedding neural network for CTR prediction. *KDD 2021, Singapore*. <br>
    Wei Guo, Rong Su, Renhao Tan, Huifeng Guo, Yingxue Zhang, Zhirong Liu, **Ruiming Tang***, Xiuqiang He. [*: Corresponding author.] <br>
     Paper link: https://github.com/tangruiming/Selected-Publications/blob/master/Corresponding-2021-DGENN-KDD.pdf
-19. ScalefreeCTR: Mixcache-based distributed training system for ctr models with huge embedding table. *SIGIR 2021, Virtual Conference* <br>
+19. ScalefreeCTR: Mixcache-based distributed training system for ctr models with huge embedding table. *SIGIR 2021, Virtual Conference.* <br>
     **Huifeng Guo***, Wei Guo, Yong Gao, **Ruiming Tang***, Xiuqiang He, Wenzhi Liu.  [*: I and Huifeng are both corresponding authors.] <br>
     Paper link: https://github.com/tangruiming/Selected-Publications/blob/master/Corresponding-2021-SFCTR-SIGIR.pdf
 20. Enhancing explicit and implicit feature interactions via information sharing for parallel deep CTR models. *CIKM 2021, Gold Coast, Queensland, Australia*
