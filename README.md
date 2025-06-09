@@ -25,13 +25,16 @@ This folder includes my first-authored papers, corresponding-authored papers and
 5. An embedding learning framework for numerical features in ctr prediction. *KDD 2021, Singapore*. <br>
    Huifeng Guo, Bo Chen, **Ruiming Tang***, Weinan Zhang, Zhenguo Li, Xiuqiang He. [*: Corresponding author.] <br>
    Paper link: https://github.com/tangruiming/Selected-Publications/blob/master/Corresponding-2021-AutoDis-KDD.pdf
-6. AutoFIS: Automatic feature interaction selection in factorization models for click-through rate prediction. *KDD 2020, Virtual Conference*. <br>
+6. Enhancing explicit and implicit feature interactions via information sharing for parallel deep CTR models. *CIKM 2021, Gold Coast, Queensland, Australia*
+   Bo Chen, Yichao Wang, Zhirong Liu, **Ruiming Tang***, Wei Guo, Hongkun Zheng, Weiwei Yao, Muyu Zhang, Xiuqiang He. [*: Corresponding author.] <br>
+   Paper link: https://github.com/tangruiming/Selected-Publications/blob/master/Corresponding-2021-EDCN-CIKM.pdf
+7. AutoFIS: Automatic feature interaction selection in factorization models for click-through rate prediction. *KDD 2020, Virtual Conference*. <br>
    Bin Liu, Chenxu Zhu, Guilin Li, Weinan Zhang*, Jincai Lai, **Ruiming Tang***, Xiuqiang He, Zhenguo Li, Yong Yu. [*: I and Weinan are both corresponding authors. This paper was selected as one of the best paper candidates for ADS track.] <br>
    Paper link: https://github.com/tangruiming/Selected-Publications/blob/master/Corresponding-2020-AutoFIS-KDD.pdf
-7. Feature generation by convolutional neural network for click-through rate prediction. *The WebConf 2019, San Francisco, USA*. <br>
+8. Feature generation by convolutional neural network for click-through rate prediction. *The WebConf 2019, San Francisco, USA*. <br>
    Bin Liu, **Ruiming Tang***, Yingzhi Chen, Jinkai Yu, Huifeng Guo, Yuzhou Zhang. [*: Corresponding author.] <br>
    Paper link: https://github.com/tangruiming/Selected-Publications/blob/master/Corresponding-2019-FGCNN-WWW.pdf
-8. PAL: a position-bias aware learning framework for CTR prediction in live recommender systems. *RecSys 2019, Copenhagen, Denmark*. <br>
+9. PAL: a position-bias aware learning framework for CTR prediction in live recommender systems. *RecSys 2019, Copenhagen, Denmark*. <br>
    Huifeng Guo, Jinkai Yu, Qing Liu, **Ruiming Tang***, Yuzhou Zhang. [*: Corresponding author.] <br>
    Paper link: https://github.com/tangruiming/Selected-Publications/blob/master/Corresponding-2019-PAL-RecSys.pdf
 
