@@ -16,10 +16,13 @@ This folder includes my first-authored papers, corresponding-authored papers and
 2. Diffusion augmentation for sequential recommendation. *CIKM 2023, Birmingham, UK*. <br>
    Qidong Liu, Fan Yan, **Xiangyu Zhao***, Zhaocheng Du, Huifeng Guo, **Ruiming Tang***, Feng Tian. [*: I and Xiangyu are both corresponding authors.] <br>
    Paper link: https://github.com/tangruiming/Selected-Publications/blob/master/Corresponding-2023-DiffuASR-CIKM.pdf
-3. Multi-behavior sequential transformer recommender. *SIGIR 2022, Madrid, Spain*. <br>
+3. Multi-task deep recommender systems: A survey. *ArXiv 2025*. <br>
+   Yuhao Wang, Ha Tsz Lam, Yi Wong, Ziru Liu, **Xiangyu Zhao***, Yichao Wang, Bo Chen, Huifeng Guo, **Ruiming Tang***. [*: I and Xiangyu are both corresponding authors.] <br>
+   Paper link: https://github.com/tangruiming/Selected-Publications/blob/master/Corresponding-2023-MultiTask-Survey-ArXiv.pdf
+4. Multi-behavior sequential transformer recommender. *SIGIR 2022, Madrid, Spain*. <br>
    Enming Yuan, Wei Guo, Zhicheng He, Huifeng Guo, Chengkai Liu, **Ruiming Tang***. [*: Corresponding author.] <br>
    Paper link: https://github.com/tangruiming/Selected-Publications/blob/master/Corresponding-2022-MBSTR-SIGIR.pdf
-4. Neural re-ranking in multi-stage recommender systems: A review. *IJCAI 2022, Messe Wien, Vienna, Austria*. <br>
+5. Neural re-ranking in multi-stage recommender systems: A review. *IJCAI 2022, Messe Wien, Vienna, Austria*. <br>
    Weiwen Liu, Yunjia Xi, Jiarui Qin, Fei Sun, Bo Chen, Weinan Zhang, **Rui Zhang***, **Ruiming Tang***. [*: I and Rui are both corresponding authors.] <br>
    Paper link: https://github.com/tangruiming/Selected-Publications/blob/master/Corresponding-2022-Reranking-Survey-IJCAI.pdf
 6. Deep learning for click-through rate estimation. *IJCAI 2021, Virtual Conference*. <br>
