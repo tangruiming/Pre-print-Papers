@@ -58,9 +58,12 @@ This folder includes my first-authored papers, corresponding-authored papers and
 
 ## Other Representative papers
 1. Towards open-world recommendation with knowledge augmentation from large language models. *RecSys 2024, Bari, Italy*. <br>
-   Yunjia Xi, Weiwen Liu, Jianghao Lin, Xiaoling Cai, Hong Zhu, Jieming Zhu, Bo Chen, **Ruiming Tang**, Weinan Zhang, Yong Yu
+   Yunjia Xi, Weiwen Liu, Jianghao Lin, Xiaoling Cai, Hong Zhu, Jieming Zhu, Bo Chen, **Ruiming Tang**, Weinan Zhang, Yong Yu. <br>
    Paper link: https://github.com/tangruiming/Selected-Publications/blob/master/Representative-2024-KAR-RecSys.pdf
-2. DeepFM: a factorization-machine based neural network for CTR prediction. *IJCAI 2017, Melbourne, Australia*. <br>
+2. CTRL: Connect tabular and language model for ctr prediction. *TORS 2024*. <br>
+   Xiangyang Li, Bo Chen, Lu Hou, **Ruiming Tang***. <br>
+   Paper link: https://github.com/tangruiming/Selected-Publications/blob/master/Representative-2024-CTRL-TORS.pdf
+3. DeepFM: a factorization-machine based neural network for CTR prediction. *IJCAI 2017, Melbourne, Australia*. <br>
    Huifeng Guo, **Ruiming Tang**, Yunming Ye, Zhenguo Li, Xiuqiang He. [This work was done when Huifeng was an intern in Noah's Ark Lab and I was his mentor in Huawei.] <br>
    Paper link: https://github.com/tangruiming/Selected-Publications/blob/master/Representative-2017-DeepFM-IJCAI.pdf
 
