@@ -13,10 +13,13 @@ This folder includes my first-authored papers, corresponding-authored papers and
 1. Deep learning for click-through rate estimation. *IJCAI 2021, Virtual Conference*. <br>
    Weinan Zhang, Jiarui Qin, Wei Guo, **Ruiming Tang***, Xiuqiang He. [*: Corresponding author.] <br>
    Paper link: https://github.com/tangruiming/Selected-Publications/blob/master/Corresponding-2021-DeepCTR-Survey-IJCAI.pdf
-2. AutoFIS: Automatic feature interaction selection in factorization models for click-through rate prediction. *KDD 2020, Virtual Conference*. <br>
+2. An embedding learning framework for numerical features in ctr prediction. *KDD 2021, Singapore*. <br>
+   Huifeng Guo, Bo Chen, **Ruiming Tang***, Weinan Zhang, Zhenguo Li, Xiuqiang He. [*: Corresponding author.] <br>
+   Paper link: https://github.com/tangruiming/Selected-Publications/blob/master/Corresponding-2021-AutoDis-KDD.pdf
+3. AutoFIS: Automatic feature interaction selection in factorization models for click-through rate prediction. *KDD 2020, Virtual Conference*. <br>
    Bin Liu, Chenxu Zhu, Guilin Li, Weinan Zhang*, Jincai Lai, **Ruiming Tang***, Xiuqiang He, Zhenguo Li, Yong Yu. [*: I and Weinan are both corresponding authors. This paper was selected as one of the best paper candidates for ADS track.] <br>
    Paper link: https://github.com/tangruiming/Selected-Publications/blob/master/Corresponding-2020-AutoFIS-KDD.pdf
-3. Feature generation by convolutional neural network for click-through rate prediction. *The WebConf 2019, San Francisco, USA*. <br>
+4. Feature generation by convolutional neural network for click-through rate prediction. *The WebConf 2019, San Francisco, USA*. <br>
    Bin Liu, **Ruiming Tang***, Yingzhi Chen, Jinkai Yu, Huifeng Guo, Yuzhou Zhang. [*: Corresponding author.] <br>
    Paper link: https://github.com/tangruiming/Selected-Publications/blob/master/Corresponding-2019-FGCNN-WWW.pdf
 
