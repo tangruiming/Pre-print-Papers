@@ -45,10 +45,13 @@ This folder includes my first-authored papers, corresponding-authored papers and
 12. Autofeature: Searching for feature interactions and their architectures for click-through rate prediction. *CIKM 2020, Virtual Conference*. <br>
     Farhan Khawar, **Xu Hang***, **Ruiming Tang***, Bin Liu, Zhenguo Li, Xiuqiang He. [*: I and Hang are both corresponding authors.] <br>
     Paper link: https://github.com/tangruiming/Selected-Publications/blob/master/Corresponding-2020-AutoFeature-CIKM.pdf
-13. Feature generation by convolutional neural network for click-through rate prediction. *The WebConf 2019, San Francisco, USA*. <br>
+13. TGCN: Tag graph convolutional network for tag-aware recommendation. *CIKM 2020, Virtual Conference*. <br>
+    Bo Chen, Wei Guo, **Ruiming Tang***, Xin Xin, Yue Ding, Xiuqiang He, **Dong Wang***. [*: I and Dong are both corresponding authors.] <br>
+    Paper link: https://github.com/tangruiming/Selected-Publications/blob/master/Corresponding-2020-TGCN-CIKM.pdf
+14. Feature generation by convolutional neural network for click-through rate prediction. *The WebConf 2019, San Francisco, USA*. <br>
     Bin Liu, **Ruiming Tang***, Yingzhi Chen, Jinkai Yu, Huifeng Guo, Yuzhou Zhang. [*: Corresponding author.] <br>
     Paper link: https://github.com/tangruiming/Selected-Publications/blob/master/Corresponding-2019-FGCNN-WWW.pdf
-14. PAL: a position-bias aware learning framework for CTR prediction in live recommender systems. *RecSys 2019, Copenhagen, Denmark*. <br>
+15. PAL: a position-bias aware learning framework for CTR prediction in live recommender systems. *RecSys 2019, Copenhagen, Denmark*. <br>
     Huifeng Guo, Jinkai Yu, Qing Liu, **Ruiming Tang***, Yuzhou Zhang. [*: Corresponding author.] <br>
     Paper link: https://github.com/tangruiming/Selected-Publications/blob/master/Corresponding-2019-PAL-RecSys.pdf
 
