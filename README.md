@@ -21,7 +21,7 @@ This folder includes my first-authored papers, corresponding-authored papers and
    Paper link: https://github.com/tangruiming/Selected-Publications/blob/master/Corresponding-2023-CKML-TOIS.pdf
 4. A unified framework for multi-domain ctr prediction via large language models. *TOIS 2023*. <br>
    Zichuan Fu, Xiangyang Li, Chuhan Wu, Yichao Wang, Kuicai Dong, **Xiangyu Zhao***, Mengchen Zhao, Huifeng Guo, **Ruiming Tang***. [*: I and Xiangyu are both corresponding authors.] <br>
-   Paper link: https://github.com/tangruiming/Selected-Publications/blob/master/Corresponding-2023-Uni-CTR.pdf
+   Paper link: https://github.com/tangruiming/Selected-Publications/blob/master/Corresponding-2023-Uni-CTR-TOIS.pdf
 5. Hierarchical projection enhanced multi-behavior recommendation. *KDD 2023, Long Beach, CA, USA* <br>
    Chang Meng, Hengyu Zhang, Wei Guo, Huifeng Guo, Haotian Liu, Yingxue Zhang, Hongkun Zheng, **Ruiming Tang***, **Xiu Li***, Rui Zhang. [*: I and Xiu are both corresponding authors.] <br>
    Paper link: https://github.com/tangruiming/Selected-Publications/blob/master/Corresponding-2023-HPMR-KDD.pdf
