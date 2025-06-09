@@ -91,7 +91,7 @@ This folder includes my first-authored papers, corresponding-authored papers and
     Weiwen Liu, Feng Liu, **Ruiming Tang***, Ben Liao, **Guangyong Chen***, Pheng Ann Heng.  [*: I and Guangyong are both corresponding authors.] <br>
     Paper link: https://github.com/tangruiming/Selected-Publications/blob/master/Corresponding-2020-FairRec-PAKDD.pdf
 28. Autohash: Learning higher-order feature interactions for deep ctr prediction. *TKDE 2020*. <br>
-    Niannan Xue, Bin Liu, Huifeng Guo, Ruiming Tang, Fengwei Zhou, Stefanos Zafeiriou, Yuzhou Zhang, Jun Wang, Zhenguo Li. [*: Corresponding author.] <br>
+    Niannan Xue, Bin Liu, Huifeng Guo, **Ruiming Tang***, Fengwei Zhou, Stefanos Zafeiriou, Yuzhou Zhang, Jun Wang, Zhenguo Li. [*: Corresponding author.] <br>
 29. Feature generation by convolutional neural network for click-through rate prediction. *The WebConf 2019, San Francisco, USA*. <br>
     Bin Liu, **Ruiming Tang***, Yingzhi Chen, Jinkai Yu, Huifeng Guo, Yuzhou Zhang. [*: Corresponding author.] <br>
     Paper link: https://github.com/tangruiming/Selected-Publications/blob/master/Corresponding-2019-FGCNN-WWW.pdf
