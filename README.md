@@ -11,10 +11,12 @@ This folder includes my first-authored papers, corresponding-authored papers and
 ## Corresponding-authored papers
 
 ## Other Representative papers
-
+1. DeepFM: a factorization-machine based neural network for CTR prediction. IJCAI 2017, Melbourne, Australia. <br>
+   Huifeng Guo, **Ruiming Tang**, Yunming Ye, Zhenguo Li, Xiuqiang He. [This work was done when Huifeng was an intern in Noah's Ark Lab and I was his mentor in Huawei.] <br>
+   Paper link: https://github.com/tangruiming/Selected-Publications/blob/master/Representative-2017-DeepFM-IJCAI.pdf
 
 ## Representative Services
-1. One of the three PC chairs for CCIR 2024, with Xiangnan He, Zhaochun Ren. (https://www.cips-ir.org.cn/CCIR2024/organization)
+1. I served as one of the three PC chairs for CCIR 2024, with Xiangnan He, Zhaochun Ren. (https://www.cips-ir.org.cn/CCIR2024/organization)
 
 
 
