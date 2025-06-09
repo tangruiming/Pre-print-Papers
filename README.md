@@ -122,10 +122,18 @@ This folder includes my first-authored papers, corresponding-authored papers and
 
 
 ## Representative Services
-1. I served as one of the three PC chairs for CCIR 2024, with Xiangnan He, Zhaochun Ren. (https://www.cips-ir.org.cn/CCIR2024/organization)
+1. Year 2025: <br>
+   PC member for SIGIR Full/Short track, KDD ADS/Research track, NeurIPS, ACL ARR. <br>
+   SPC for RecSys Full/short track. <br>
+2. Year 2024: <br>
+   I served as **one of the three PC chairs** for CCIR 2024, with Xiangnan He, Zhaochun Ren. (https://www.cips-ir.org.cn/CCIR2024/organization) <br>
+   PC member for SIGIR Full/Short track, KDD ADS/Research track, CIKM ADS track. <br>
+   SPC for RecSys Full/short track, CIKM research track. <br>
+   
 
 
 
 
 
-###### remark: stop at SFCTR.
+
+###### remark: stop at COIR.
