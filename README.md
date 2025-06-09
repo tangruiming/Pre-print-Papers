@@ -58,39 +58,42 @@ This folder includes my first-authored papers, corresponding-authored papers and
 16. Optembed: Learning optimal embedding table for click-through rate prediction. *CIKM 2022, Atlanta, GA, USA* <br>
    Fuyuan Lyu, **Xing Tang***, Hong Zhu, Huifeng Guo, Yingxue Zhang, **Ruiming Tang***, Xue Liu. [*: I and Xing are both corresponding authors.] <br>
    Paper link: https://github.com/tangruiming/Selected-Publications/blob/master/Corresponding-2022-OptEmbed-CIKM.pdf
-17. Deep learning for click-through rate estimation. *IJCAI 2021, Virtual Conference*. <br>
+17. Inttower: the next generation of two-tower model for pre-ranking system. *CIKM 2022, Atlanta, GA, USA* <br>
+    Xiangyang Li, Bo Chen, **HuiFeng Guo***, Jingjie Li, Chenxu Zhu, Xiang Long, Sujian Li, Yichao Wang, Wei Guo, Longxia Mao, Jinxing Liu, Zhenhua Dong, **Ruiming Tang***. [*: I and Huifeng are both corresponding authors.] <br>
+    Paper link: https://github.com/tangruiming/Selected-Publications/blob/master/Corresponding-2022-IntTower-CIKM.pdf
+18. Deep learning for click-through rate estimation. *IJCAI 2021, Virtual Conference*. <br>
    Weinan Zhang, Jiarui Qin, Wei Guo, **Ruiming Tang***, Xiuqiang He. [*: Corresponding author.] <br>
     Paper link: https://github.com/tangruiming/Selected-Publications/blob/master/Corresponding-2021-DeepCTR-Survey-IJCAI.pdf
-18. An embedding learning framework for numerical features in ctr prediction. *KDD 2021, Singapore*. <br>
+19. An embedding learning framework for numerical features in ctr prediction. *KDD 2021, Singapore*. <br>
    **Huifeng Guo***, Bo Chen, **Ruiming Tang***, Weinan Zhang, Zhenguo Li, Xiuqiang He. [*: I and Huifeng are both corresponding authors.] <br>
     Paper link: https://github.com/tangruiming/Selected-Publications/blob/master/Corresponding-2021-AutoDis-KDD.pdf
-19. Dual graph enhanced embedding neural network for CTR prediction. *KDD 2021, Singapore*. <br>
+20. Dual graph enhanced embedding neural network for CTR prediction. *KDD 2021, Singapore*. <br>
    Wei Guo, Rong Su, Renhao Tan, Huifeng Guo, Yingxue Zhang, Zhirong Liu, **Ruiming Tang***, Xiuqiang He. [*: Corresponding author.] <br>
     Paper link: https://github.com/tangruiming/Selected-Publications/blob/master/Corresponding-2021-DGENN-KDD.pdf
-20. ScalefreeCTR: Mixcache-based distributed training system for ctr models with huge embedding table. *SIGIR 2021, Virtual Conference.* <br>
+21. ScalefreeCTR: Mixcache-based distributed training system for ctr models with huge embedding table. *SIGIR 2021, Virtual Conference.* <br>
     **Huifeng Guo***, Wei Guo, Yong Gao, **Ruiming Tang***, Xiuqiang He, Wenzhi Liu.  [*: I and Huifeng are both corresponding authors.] <br>
     Paper link: https://github.com/tangruiming/Selected-Publications/blob/master/Corresponding-2021-SFCTR-SIGIR.pdf
-21. Enhancing explicit and implicit feature interactions via information sharing for parallel deep CTR models. *CIKM 2021, Gold Coast, Queensland, Australia*
+22. Enhancing explicit and implicit feature interactions via information sharing for parallel deep CTR models. *CIKM 2021, Gold Coast, Queensland, Australia*
    Bo Chen, Yichao Wang, Zhirong Liu, **Ruiming Tang***, Wei Guo, Hongkun Zheng, Weiwei Yao, Muyu Zhang, Xiuqiang He. [*: Corresponding author.] <br>
     Paper link: https://github.com/tangruiming/Selected-Publications/blob/master/Corresponding-2021-EDCN-CIKM.pdf
-22. AutoFIS: Automatic feature interaction selection in factorization models for click-through rate prediction. *KDD 2020, Virtual Conference*. <br>
+23. AutoFIS: Automatic feature interaction selection in factorization models for click-through rate prediction. *KDD 2020, Virtual Conference*. <br>
     Bin Liu, Chenxu Zhu, Guilin Li, Weinan Zhang*, Jincai Lai, **Ruiming Tang***, Xiuqiang He, Zhenguo Li, Yong Yu. [*: I and Weinan are both corresponding authors. This paper was selected as one of the best paper candidates for ADS track.] <br>
     Paper link: https://github.com/tangruiming/Selected-Publications/blob/master/Corresponding-2020-AutoFIS-KDD.pdf
-23. AutoGroup: Automatic feature grouping for modelling explicit high-order feature interactions in CTR prediction. *SIGIR 2020, Virtual Conference*. <br>
+24. AutoGroup: Automatic feature grouping for modelling explicit high-order feature interactions in CTR prediction. *SIGIR 2020, Virtual Conference*. <br>
     Bin Liu, Niannan Xue, Huifeng Guo, **Ruiming Tang***, Stefanos Zafeiriou, Xiuqiang He, Zhenguo Li. [*: Corresponding author.] <br>
-24. Autofeature: Searching for feature interactions and their architectures for click-through rate prediction. *CIKM 2020, Virtual Conference*. <br>
+25. Autofeature: Searching for feature interactions and their architectures for click-through rate prediction. *CIKM 2020, Virtual Conference*. <br>
     Farhan Khawar, **Xu Hang***, **Ruiming Tang***, Bin Liu, Zhenguo Li, Xiuqiang He. [*: I and Hang are both corresponding authors.] <br>
     Paper link: https://github.com/tangruiming/Selected-Publications/blob/master/Corresponding-2020-AutoFeature-CIKM.pdf
-25. TGCN: Tag graph convolutional network for tag-aware recommendation. *CIKM 2020, Virtual Conference*. <br>
+26. TGCN: Tag graph convolutional network for tag-aware recommendation. *CIKM 2020, Virtual Conference*. <br>
     Bo Chen, Wei Guo, **Ruiming Tang***, Xin Xin, Yue Ding, Xiuqiang He, **Dong Wang***. [*: I and Dong are both corresponding authors.] <br>
     Paper link: https://github.com/tangruiming/Selected-Publications/blob/master/Corresponding-2020-TGCN-CIKM.pdf
-26. Balancing between accuracy and fairness for interactive recommendation with reinforcement learning. *PAKDD 2020, Singapore*. <br>
+27. Balancing between accuracy and fairness for interactive recommendation with reinforcement learning. *PAKDD 2020, Singapore*. <br>
     Weiwen Liu, Feng Liu, **Ruiming Tang***, Ben Liao, **Guangyong Chen***, Pheng Ann Heng.  [*: I and Guangyong are both corresponding authors.] <br>
     Paper link: https://github.com/tangruiming/Selected-Publications/blob/master/Corresponding-2020-FairRec-PAKDD.pdf
-27. Feature generation by convolutional neural network for click-through rate prediction. *The WebConf 2019, San Francisco, USA*. <br>
+28. Feature generation by convolutional neural network for click-through rate prediction. *The WebConf 2019, San Francisco, USA*. <br>
     Bin Liu, **Ruiming Tang***, Yingzhi Chen, Jinkai Yu, Huifeng Guo, Yuzhou Zhang. [*: Corresponding author.] <br>
     Paper link: https://github.com/tangruiming/Selected-Publications/blob/master/Corresponding-2019-FGCNN-WWW.pdf
-28. PAL: a position-bias aware learning framework for CTR prediction in live recommender systems. *RecSys 2019, Copenhagen, Denmark*. <br>
+29. PAL: a position-bias aware learning framework for CTR prediction in live recommender systems. *RecSys 2019, Copenhagen, Denmark*. <br>
     Huifeng Guo, Jinkai Yu, Qing Liu, **Ruiming Tang***, Yuzhou Zhang. [*: Corresponding author.] <br>
     Paper link: https://github.com/tangruiming/Selected-Publications/blob/master/Corresponding-2019-PAL-RecSys.pdf
 
