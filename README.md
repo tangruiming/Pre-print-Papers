@@ -20,7 +20,7 @@ This folder includes my first-authored papers, corresponding-authored papers and
    Enming Yuan, Wei Guo, Zhicheng He, Huifeng Guo, Chengkai Liu, **Ruiming Tang***. [*: Corresponding author.] <br>
    Paper link: https://github.com/tangruiming/Selected-Publications/blob/master/Corresponding-2022-MBSTR-SIGIR.pdf
 4. Neural re-ranking in multi-stage recommender systems: A review. *IJCAI 2022, Messe Wien, Vienna, Austria*. <br>
-   Weiwen Liu, Yunjia Xi, Jiarui Qin, Fei Sun, Bo Chen, Weinan Zhang, **Rui Zhang***, **Ruiming Tang***. [*: I and Rui are both corresponding authors.]
+   Weiwen Liu, Yunjia Xi, Jiarui Qin, Fei Sun, Bo Chen, Weinan Zhang, **Rui Zhang***, **Ruiming Tang***. [*: I and Rui are both corresponding authors.] <br>
    Paper link: https://github.com/tangruiming/Selected-Publications/blob/master/Corresponding-2022-Reranking-Survey-IJCAI.pdf
 6. Deep learning for click-through rate estimation. *IJCAI 2021, Virtual Conference*. <br>
    Weinan Zhang, Jiarui Qin, Wei Guo, **Ruiming Tang***, Xiuqiang He. [*: Corresponding author.] <br>
