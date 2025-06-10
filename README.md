@@ -187,16 +187,20 @@ Zhongqian Fu, Ziyang Zhang, Zongyuan Zhan, Zuming Li. <br>
    Core Contributors: Hanting Chen, Jiarui Qin, Jialong Guo, Tao Yuan, Yichun Yin, Huiling Zhen, Yasheng Wang, Jinpeng Li, Xiaojun Meng, Meng Zhang, Rongju Ruan, Zheyuan Bai, Yehui Tang, Can Chen, Xinghao Chen, Fisher Yu, **Ruiming Tang**, Yunhe Wang. <br>
    Contributors: Bin Wang, Boxiao Liu, Dingyu Yong, Dong Li, Fei Mi, Hui Zang, Jiansheng Wei, Kaikai Song, Liqun Deng, Luocheng Hu, Wenyong Huang, Xianzhi Yu, Xu He, Yixian Ren, Yufei Wang, Yuhang Gai, Zhao Liu, Ziyang Zhang. <br>
    Paper link: https://github.com/tangruiming/Selected-Publications/blob/master/Representative-2025-Pangu-Light-ArXiv.pdf
-5. FuXi-α: Scaling Recommendation Model with Feature Interaction Enhanced Transformer. *ArXiv 2025*. <br>
+5. Pangu Embedded: An Efficient Dual-system LLM Reasoner with Metacognition. *ArXiv 2025*. <br>
+   Core Contributors: Hanting Chen, Yasheng Wang, Kai Han, Dong Li, Lin Li, Zhenni Bi, Jinpeng Li, Haoyu Wang, Fei Mi, Mingjian Zhu, Bin Wang, Kaikai Song, Yifei Fu, Xu He, Yu Luo, Chong Zhu, Quan He, Xueyu Wu, Wei He, Hailin Hu, Yehui Tang, Dacheng Tao, Xinghao Chen, Yunhe Wang. <br>
+   Contributors: Binwei Yan, Can Chen, Chan Tsz Ho, Chen Zhong, Chenyi Pan, Chuanjian Liu, Fanyi Du, Fisher Yu, Heyuan Deng, Huiling Zhen, Liangjun Feng, Lin Yang, Luocheng Hu, Nianzu Zheng, Qianyi Sun, Qiang Gu, **Ruiming Tang**, Shixiong Kai, Shuo Han, Tianyu Guo, Ting Hu, Tong Teng, Weiwen Liu, Wulong Liu, Xianzhi Yu, Xiaojun Meng, Xing Li, Xingshan Zeng, Xinyi Dai, Yan Xu, Yihan Hu, Yinfei Pan, Ying Nie, Yingxue Zhang, Yufei Wang, Yubin Wang, Yuqi Cui, Yunsheng Ni, Zelin Chen, Zhao Liu, Zheyuan Bai, Zhicheng Liu, Zhenhang Weng, Zixuan Yue, Zongyuan Zhan. <br>
+   Paper link: https://github.com/tangruiming/Selected-Publications/blob/master/Representative-2025-Pangu-Embeded-ArXiv.pdf
+6. FuXi-α: Scaling Recommendation Model with Feature Interaction Enhanced Transformer. *ArXiv 2025*. <br>
    Yufei Ye, Wei Guo, Jin Yao Chin, Hao Wang, Hong Zhu, Xi Lin, Yuyang Ye, Yong Liu, Ruiming Tang, Defu Lian, Enhong Chen. <br>
    Paper link: https://github.com/tangruiming/Selected-Publications/blob/master/Representative-2025-fuxi-alpha-ArXiv.pdf
-6. Towards open-world recommendation with knowledge augmentation from large language models. *RecSys 2024, Bari, Italy*. <br>
+7. Towards open-world recommendation with knowledge augmentation from large language models. *RecSys 2024, Bari, Italy*. <br>
    Yunjia Xi, Weiwen Liu, Jianghao Lin, Xiaoling Cai, Hong Zhu, Jieming Zhu, Bo Chen, **Ruiming Tang**, Weinan Zhang, Yong Yu. <br>
    Paper link: https://github.com/tangruiming/Selected-Publications/blob/master/Representative-2024-KAR-RecSys.pdf
-7. CTRL: Connect tabular and language model for ctr prediction. *TORS 2024*. <br>
+8. CTRL: Connect tabular and language model for ctr prediction. *TORS 2024*. <br>
    Xiangyang Li, Bo Chen, Lu Hou, **Ruiming Tang**. <br>
    Paper link: https://github.com/tangruiming/Selected-Publications/blob/master/Representative-2024-CTRL-TORS.pdf
-8. DeepFM: a factorization-machine based neural network for CTR prediction. *IJCAI 2017, Melbourne, Australia*. <br>
+9. DeepFM: a factorization-machine based neural network for CTR prediction. *IJCAI 2017, Melbourne, Australia*. <br>
    Huifeng Guo, **Ruiming Tang**, Yunming Ye, Zhenguo Li, Xiuqiang He. [This work was done when Huifeng was an intern in Noah's Ark Lab and I was his mentor in Huawei.] <br>
    Paper link: https://github.com/tangruiming/Selected-Publications/blob/master/Representative-2017-DeepFM-IJCAI.pdf
 
