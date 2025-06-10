@@ -29,7 +29,7 @@ This folder includes my first-authored papers, corresponding-authored papers and
    Jingtong Gao, Bo Chen, Menghui Zhu, **Xiangyu Zhao***, Xiaopeng Li, Yuhao Wang, Yichao Wang, Huifeng Guo, **Ruiming Tang***. [*: I and Xiangyu are both corresponding authors.] <br>
    Paper link: https://github.com/tangruiming/Selected-Publications/blob/master/Corresponding-2024-HierRec-CIKM.pdf
 7. Retrieval-Oriented Knowledge for Click-Through Rate Prediction. *CIKM 2024, Boise, Idaho, USA*. <br>
-   Huanshuo Liu, Bo Chen, Menghui Zhu, Jianghao Lin, Jiarui Qin, Hao Zhang, Yang Yang, **Ruiming Tang***.  [*: Corresponding author.]
+   Huanshuo Liu, Bo Chen, Menghui Zhu, Jianghao Lin, Jiarui Qin, Hao Zhang, Yang Yang, **Ruiming Tang***.  [*: Corresponding author.] <br>
    Paper link: https://github.com/tangruiming/Selected-Publications/blob/master/Corresponding-2024-ROK-CIKM.pdf
 9. AutoAssign+: Automatic Shared Embedding Assignment in streaming recommendation. *Knowledge and Information Systems 2024*. <br>
    Ziru Liu, Kecheng Chen, Fengyi Song, Bo Chen, **Xiangyu Zhao***, Huifeng Guo, **Ruiming Tang***. [*: I and Xiangyu are both corresponding authors.] <br>
