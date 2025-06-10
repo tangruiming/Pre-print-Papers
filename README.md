@@ -25,6 +25,7 @@ This folder includes my first-authored papers, corresponding-authored papers and
 5. A survey of personalization: From rag to agent. *ArXiv 2025*. <br>
    Xiaopeng Li, Pengyue Jia, Derong Xu, Yi Wen, Yingyi Zhang, Wenlin Zhang, Wanyu Wang, Yichao Wang, Zhaocheng Du, Xiangyang Li, Yong Liu, Huifeng Guo, **Ruiming Tang***, **Xiangyu Zhao***. <br>
    Paper link: https://github.com/tangruiming/Selected-Publications/blob/master/Corresponding-2025-Personalization-Survey-ArXiv.pdf
+### Year 2024
 6. D3: A Methodological Exploration of Domain Division, Modeling, and Balance in Multi-Domain Recommendations. *AAAI 2024, Vancouver, Canada*. <br>
    Pengyue Jia, Yichao Wang, Shanru Lin, Xiaopeng Li, **Xiangyu Zhao***, Huifeng Guo, **Ruiming Tang***. [*: I and Xiangyu are both corresponding authors.] <br>
    Paper link: https://github.com/tangruiming/Selected-Publications/blob/master/Corresponding-2024-D3-AAAI.pdf
@@ -55,6 +56,7 @@ This folder includes my first-authored papers, corresponding-authored papers and
 15. LIBER: Lifelong User Behavior Modeling Based on Large Language Models. *ArXiv 2024*. <br>
     Chenxu Zhu, Shigang Quan, Bo Chen, Jianghao Lin, Xiaoling Cai, Hong Zhu, Xiangyang Li, Yunjia Xi, Weinan Zhang, **Ruiming Tang***. [*: Corresponding author.] <br>
     Paper link: https://github.com/tangruiming/Selected-Publications/blob/master/Corresponding-2024-LIBER-ArXiv.pdf
+### Year 2023
 16. Coarse-to-fine knowledge-enhanced multi-interest learning framework for multi-behavior recommendation. *TOIS 2023*. <br>
    Chang Meng, Ziqi Zhao, Wei Guo, Yingxue Zhang, Haolun Wu, Chen Gao, **Dong Li***, Xiu Li, **Ruiming Tang***. [*: I and Dong are both corresponding authors.] <br>
    Paper link: https://github.com/tangruiming/Selected-Publications/blob/master/Corresponding-2023-CKML-TOIS.pdf
@@ -87,6 +89,7 @@ This folder includes my first-authored papers, corresponding-authored papers and
 26. Time-aligned Exposure-enhanced Model for Click-Through Rate Prediction. *ArXiv 2023*. <br>
     Hengyu Zhang, Chang Meng, Wei Guo, Huifeng Guo, Jieming Zhu, Guangpeng Zhao, **Ruiming Tang***, **Xiu Li***. [*: I and Xiu are both corresponding authors.] <br>
     Paper link: https://github.com/tangruiming/Selected-Publications/blob/master/Corresponding-2023-TEM4CTR-ArXiv.pdf
+### Year 2022
 27. Multi-behavior sequential transformer recommender. *SIGIR 2022, Madrid, Spain*. <br>
    Enming Yuan, Wei Guo, Zhicheng He, Huifeng Guo, Chengkai Liu, **Ruiming Tang***. [*: Corresponding author.] <br>
    Paper link: https://github.com/tangruiming/Selected-Publications/blob/master/Corresponding-2022-MBSTR-SIGIR.pdf
@@ -119,6 +122,7 @@ This folder includes my first-authored papers, corresponding-authored papers and
     Paper link: https://github.com/tangruiming/Selected-Publications/blob/master/Corresponding-2022-NaryDis-CIKM.pdf
 37. Balancing utility and exposure fairness for integrated ranking with reinforcement learning. *CIKM 2022, Atlanta, GA, USA* <br>
     Wei Xia, Weiwen Liu, Yifan Liu, **Ruiming Tang***. [*: Corresponding author.] <br>
+### Year 2021
 38. Deep learning for click-through rate estimation. *IJCAI 2021, Virtual Conference*. <br>
    Weinan Zhang, Jiarui Qin, Wei Guo, **Ruiming Tang***, Xiuqiang He. [*: Corresponding author.] <br>
     Paper link: https://github.com/tangruiming/Selected-Publications/blob/master/Corresponding-2021-DeepCTR-Survey-IJCAI.pdf
@@ -134,6 +138,7 @@ This folder includes my first-authored papers, corresponding-authored papers and
 42. Enhancing explicit and implicit feature interactions via information sharing for parallel deep CTR models. *CIKM 2021, Gold Coast, Queensland, Australia*
    Bo Chen, Yichao Wang, Zhirong Liu, **Ruiming Tang***, Wei Guo, Hongkun Zheng, Weiwei Yao, Muyu Zhang, Xiuqiang He. [*: Corresponding author.] <br>
     Paper link: https://github.com/tangruiming/Selected-Publications/blob/master/Corresponding-2021-EDCN-CIKM.pdf
+### Year 2020
 43. AutoFIS: Automatic feature interaction selection in factorization models for click-through rate prediction. *KDD 2020, Virtual Conference*. <br>
     Bin Liu, Chenxu Zhu, Guilin Li, Weinan Zhang*, Jincai Lai, **Ruiming Tang***, Xiuqiang He, Zhenguo Li, Yong Yu. [*: I and Weinan are both corresponding authors. This paper was selected as one of the best paper candidates for ADS track.] <br>
     Paper link: https://github.com/tangruiming/Selected-Publications/blob/master/Corresponding-2020-AutoFIS-KDD.pdf
@@ -152,6 +157,7 @@ This folder includes my first-authored papers, corresponding-authored papers and
     Paper link: https://github.com/tangruiming/Selected-Publications/blob/master/Corresponding-2020-FairRec-PAKDD.pdf
 49. Autohash: Learning higher-order feature interactions for deep ctr prediction. *TKDE 2020*. <br>
     Niannan Xue, Bin Liu, Huifeng Guo, **Ruiming Tang***, Fengwei Zhou, Stefanos Zafeiriou, Yuzhou Zhang, Jun Wang, Zhenguo Li. [*: Corresponding author.] <br>
+### Year 2019
 50. Feature generation by convolutional neural network for click-through rate prediction. *The WebConf 2019, San Francisco, USA*. <br>
     Bin Liu, **Ruiming Tang***, Yingzhi Chen, Jinkai Yu, Huifeng Guo, Yuzhou Zhang. [*: Corresponding author.] <br>
     Paper link: https://github.com/tangruiming/Selected-Publications/blob/master/Corresponding-2019-FGCNN-WWW.pdf
