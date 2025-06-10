@@ -107,24 +107,26 @@ This folder includes my first-authored papers, corresponding-authored papers and
     Paper link: https://github.com/tangruiming/Selected-Publications/blob/master/Corresponding-2020-AutoFIS-KDD.pdf
 33. AutoGroup: Automatic feature grouping for modelling explicit high-order feature interactions in CTR prediction. *SIGIR 2020, Virtual Conference*. <br>
     Bin Liu, Niannan Xue, Huifeng Guo, **Ruiming Tang***, Stefanos Zafeiriou, Xiuqiang He, Zhenguo Li. [*: Corresponding author.] <br>
-34. Autofeature: Searching for feature interactions and their architectures for click-through rate prediction. *CIKM 2020, Virtual Conference*. <br>
+34. Multi-branch convolutional network for context-aware recommendation. *SIGIR 2020, Virtual Conference*. <br>
+    Wei Guo, Can Zhang, Huifeng Guo, **Ruiming Tang***, Xiuqiang He. [*: Corresponding author.] <br>
+35. Autofeature: Searching for feature interactions and their architectures for click-through rate prediction. *CIKM 2020, Virtual Conference*. <br>
     Farhan Khawar, **Xu Hang***, **Ruiming Tang***, Bin Liu, Zhenguo Li, Xiuqiang He. [*: I and Hang are both corresponding authors.] <br>
     Paper link: https://github.com/tangruiming/Selected-Publications/blob/master/Corresponding-2020-AutoFeature-CIKM.pdf
-35. TGCN: Tag graph convolutional network for tag-aware recommendation. *CIKM 2020, Virtual Conference*. <br>
+36. TGCN: Tag graph convolutional network for tag-aware recommendation. *CIKM 2020, Virtual Conference*. <br>
     Bo Chen, Wei Guo, **Ruiming Tang***, Xin Xin, Yue Ding, Xiuqiang He, **Dong Wang***. [*: I and Dong are both corresponding authors.] <br>
     Paper link: https://github.com/tangruiming/Selected-Publications/blob/master/Corresponding-2020-TGCN-CIKM.pdf
-36. Balancing between accuracy and fairness for interactive recommendation with reinforcement learning. *PAKDD 2020, Singapore*. <br>
+37. Balancing between accuracy and fairness for interactive recommendation with reinforcement learning. *PAKDD 2020, Singapore*. <br>
     Weiwen Liu, Feng Liu, **Ruiming Tang***, Ben Liao, **Guangyong Chen***, Pheng Ann Heng.  [*: I and Guangyong are both corresponding authors.] <br>
     Paper link: https://github.com/tangruiming/Selected-Publications/blob/master/Corresponding-2020-FairRec-PAKDD.pdf
-37. Autohash: Learning higher-order feature interactions for deep ctr prediction. *TKDE 2020*. <br>
+38. Autohash: Learning higher-order feature interactions for deep ctr prediction. *TKDE 2020*. <br>
     Niannan Xue, Bin Liu, Huifeng Guo, **Ruiming Tang***, Fengwei Zhou, Stefanos Zafeiriou, Yuzhou Zhang, Jun Wang, Zhenguo Li. [*: Corresponding author.] <br>
-38. Feature generation by convolutional neural network for click-through rate prediction. *The WebConf 2019, San Francisco, USA*. <br>
+39. Feature generation by convolutional neural network for click-through rate prediction. *The WebConf 2019, San Francisco, USA*. <br>
     Bin Liu, **Ruiming Tang***, Yingzhi Chen, Jinkai Yu, Huifeng Guo, Yuzhou Zhang. [*: Corresponding author.] <br>
     Paper link: https://github.com/tangruiming/Selected-Publications/blob/master/Corresponding-2019-FGCNN-WWW.pdf
-39. PAL: a position-bias aware learning framework for CTR prediction in live recommender systems. *RecSys 2019, Copenhagen, Denmark*. <br>
+40. PAL: a position-bias aware learning framework for CTR prediction in live recommender systems. *RecSys 2019, Copenhagen, Denmark*. <br>
     Huifeng Guo, Jinkai Yu, Qing Liu, **Ruiming Tang***, Yuzhou Zhang. [*: Corresponding author.] <br>
     Paper link: https://github.com/tangruiming/Selected-Publications/blob/master/Corresponding-2019-PAL-RecSys.pdf
-40. Order-aware embedding neural network for CTR prediction. *SIGIR 2019, Paris, France*. <br>
+41. Order-aware embedding neural network for CTR prediction. *SIGIR 2019, Paris, France*. <br>
     Wei Guo, **Ruiming Tang***, Huifeng Guo, Jianhua Han, Wen Yang, Yuzhou Zhang. [*: Corresponding author.] <br>
     Paper link: https://github.com/tangruiming/Selected-Publications/blob/master/Corresponding-2019-OENN-SIGIR.pdf
 
