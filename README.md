@@ -171,8 +171,8 @@ This folder includes my first-authored papers, corresponding-authored papers and
 
 ## Other Representative papers
 1. PanGu Ultra: Pushing the Limits of Dense Large Language Models on Ascend NPUs. *ArXiv 2025*. <br>
-   Core Contributors: Yichun Yin, Wenyong Huang, Kaikai Song, Yehui Tang, Xueyu Wu, Wei Guo, Peng Guo, Yaoyuan Wang, Xiaojun Meng, Yasheng Wang, Dong Li, Can Chen, Dandan Tu, Yin Li, Fisher Yu, **Ruiming Tang**, Yunhe Wang. <br>
-   Contributors: Baojun Wang, Bin Wang, Bo Wang, Boxiao Liu, Changzheng Zhang, Duyu Tang, Fei Mi, Hui Jin, Jiansheng Wei, Jiarui Qin, Jinpeng Li, Jun Zhao, Liqun Deng, Lin Li, Minghui Xu, Naifu Zhang, Nianzu Zheng, Qiang Li, Rongju Ruan, Shengjun Cheng, Tianyu Guo, Wei He, Wei Li, Weiwen Liu, Wulong Liu, Xinyi Dai, Yonghan Dong, Yu Pan, Yue Li, Yufei Wang, Yujun Li, Yunsheng Ni, Zhe Liu, Zhenhe Zhang, Zhicheng Liu. <br>
+   *Core Contributors*: Yichun Yin, Wenyong Huang, Kaikai Song, Yehui Tang, Xueyu Wu, Wei Guo, Peng Guo, Yaoyuan Wang, Xiaojun Meng, Yasheng Wang, Dong Li, Can Chen, Dandan Tu, Yin Li, Fisher Yu, **Ruiming Tang**, Yunhe Wang. <br>
+   *Contributors*: Baojun Wang, Bin Wang, Bo Wang, Boxiao Liu, Changzheng Zhang, Duyu Tang, Fei Mi, Hui Jin, Jiansheng Wei, Jiarui Qin, Jinpeng Li, Jun Zhao, Liqun Deng, Lin Li, Minghui Xu, Naifu Zhang, Nianzu Zheng, Qiang Li, Rongju Ruan, Shengjun Cheng, Tianyu Guo, Wei He, Wei Li, Weiwen Liu, Wulong Liu, Xinyi Dai, Yonghan Dong, Yu Pan, Yue Li, Yufei Wang, Yujun Li, Yunsheng Ni, Zhe Liu, Zhenhe Zhang, Zhicheng Liu. <br>
    Paper link: https://github.com/tangruiming/Selected-Publications/blob/master/Representative-2025-Pangu-Ultra-ArXiv.pdf
 2. PanGu Ultra MoE: How to Train Your Big MoE on Ascend NPUs. *ArXiv 2025*. <br>
    Core Contributors: Yehui Tang, Yichun Yin, Yaoyuan Wang, Hang Zhou, Yu Pan, Wei Guo, Ziyang Zhang, Miao Rang, Fangcheng Liu, Naifu Zhang, Binghan Li, Yonghan Dong, Xiaojun Meng, Yasheng Wang, Dong Li, Yin Li, Dandan Tu, Can Chen, Youliang Yan, Fisher Yu, **Ruiming Tang**, Yunhe Wang. <br>
@@ -220,4 +220,4 @@ Zhongqian Fu, Ziyang Zhang, Zongyuan Zhan, Zuming Li. <br>
 
 
 
-###### remark: stop at ToolACE-R. reminder LLM4Rerank.
+###### remark: checking TEM4CTR, LIBER.
