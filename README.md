@@ -135,7 +135,7 @@ This folder includes my first-authored papers, corresponding-authored papers and
 41. ScalefreeCTR: Mixcache-based distributed training system for ctr models with huge embedding table. *SIGIR 2021, Virtual Conference.* <br>
     **Huifeng Guo***, Wei Guo, Yong Gao, **Ruiming Tang***, Xiuqiang He, Wenzhi Liu.  [*: I and Huifeng are both corresponding authors.] <br>
     Paper link: https://github.com/tangruiming/Selected-Publications/blob/master/Corresponding-2021-SFCTR-SIGIR.pdf
-42. Enhancing explicit and implicit feature interactions via information sharing for parallel deep CTR models. *CIKM 2021, Gold Coast, Queensland, Australia*
+42. Enhancing explicit and implicit feature interactions via information sharing for parallel deep CTR models. *CIKM 2021, Gold Coast, Queensland, Australia*. <br>
    Bo Chen, Yichao Wang, Zhirong Liu, **Ruiming Tang***, Wei Guo, Hongkun Zheng, Weiwei Yao, Muyu Zhang, Xiuqiang He. [*: Corresponding author.] <br>
     Paper link: https://github.com/tangruiming/Selected-Publications/blob/master/Corresponding-2021-EDCN-CIKM.pdf
 ### Year 2020
