@@ -19,16 +19,19 @@ This folder includes my first-authored papers, corresponding-authored papers and
 3. SampleLLM: Optimizing Tabular Data Synthesis in Recommendations. *The WebConf 2025, Sydney, Australia*. <br>
    Jingtong Gao, Zhaocheng Du, Xiaopeng Li, Yichao Wang, Xiangyang Li, Huifeng Guo, **Ruiming Tang***, **Xiangyu Zhao***. [*: I and Xiangyu are both corresponding authors.] <br>
    Paper link: https://github.com/tangruiming/Selected-Publications/blob/master/Corresponding-2025-SampleLLM-WWW.pdf
-4. D3: A Methodological Exploration of Domain Division, Modeling, and Balance in Multi-Domain Recommendations. *AAAI 2024, Vancouver, Canada*. <br>
+4. A survey of personalization: From rag to agent. *ArXiv 2025*. <br>
+   Xiaopeng Li, Pengyue Jia, Derong Xu, Yi Wen, Yingyi Zhang, Wenlin Zhang, Wanyu Wang, Yichao Wang, Zhaocheng Du, Xiangyang Li, Yong Liu, Huifeng Guo, **Ruiming Tang***, **Xiangyu Zhao***. <br>
+   Paper link: https://github.com/tangruiming/Selected-Publications/blob/master/Corresponding-2025-Personalization-Survey-ArXiv.pdf
+5. D3: A Methodological Exploration of Domain Division, Modeling, and Balance in Multi-Domain Recommendations. *AAAI 2024, Vancouver, Canada*. <br>
    Pengyue Jia, Yichao Wang, Shanru Lin, Xiaopeng Li, **Xiangyu Zhao***, Huifeng Guo, **Ruiming Tang***. [*: I and Xiangyu are both corresponding authors.] <br>
    Paper link: https://github.com/tangruiming/Selected-Publications/blob/master/Corresponding-2024-D3-AAAI.pdf
-5. IncMSR: An Incremental Learning Approach for Multi-Scenario Recommendation. *WSDM 2024, Merida, Mexico*. <br>
+6. IncMSR: An Incremental Learning Approach for Multi-Scenario Recommendation. *WSDM 2024, Merida, Mexico*. <br>
    Kexin Zhang, Yichao Wang, **Xiu Li***, **Ruiming Tang***, Rui Zhang. [*: I and Xiu are both corresponding authors.] <br>
    Paper link: https://github.com/tangruiming/Selected-Publications/blob/master/Corresponding-2024-IncMSR-WSDM.pdf
-6. HierRec: Scenario-Aware Hierarchical Modeling for Multi-scenario Recommendations. *CIKM 2024, Boise, Idaho, USA*. <br>
+7. HierRec: Scenario-Aware Hierarchical Modeling for Multi-scenario Recommendations. *CIKM 2024, Boise, Idaho, USA*. <br>
    Jingtong Gao, Bo Chen, Menghui Zhu, **Xiangyu Zhao***, Xiaopeng Li, Yuhao Wang, Yichao Wang, Huifeng Guo, **Ruiming Tang***. [*: I and Xiangyu are both corresponding authors.] <br>
    Paper link: https://github.com/tangruiming/Selected-Publications/blob/master/Corresponding-2024-HierRec-CIKM.pdf
-7. Retrieval-Oriented Knowledge for Click-Through Rate Prediction. *CIKM 2024, Boise, Idaho, USA*. <br>
+8. Retrieval-Oriented Knowledge for Click-Through Rate Prediction. *CIKM 2024, Boise, Idaho, USA*. <br>
    Huanshuo Liu, Bo Chen, Menghui Zhu, Jianghao Lin, Jiarui Qin, Hao Zhang, Yang Yang, **Ruiming Tang***.  [*: Corresponding author.] <br>
    Paper link: https://github.com/tangruiming/Selected-Publications/blob/master/Corresponding-2024-ROK-CIKM.pdf
 9. AutoAssign+: Automatic Shared Embedding Assignment in streaming recommendation. *Knowledge and Information Systems 2024*. <br>
