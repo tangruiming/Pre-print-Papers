@@ -192,7 +192,7 @@ Zhongqian Fu, Ziyang Zhang, Zongyuan Zhan, Zuming Li. <br>
    *Contributors*: Binwei Yan, Can Chen, Chan Tsz Ho, Chen Zhong, Chenyi Pan, Chuanjian Liu, Fanyi Du, Fisher Yu, Heyuan Deng, Huiling Zhen, Liangjun Feng, Lin Yang, Luocheng Hu, Nianzu Zheng, Qianyi Sun, Qiang Gu, **Ruiming Tang**, Shixiong Kai, Shuo Han, Tianyu Guo, Ting Hu, Tong Teng, Weiwen Liu, Wulong Liu, Xianzhi Yu, Xiaojun Meng, Xing Li, Xingshan Zeng, Xinyi Dai, Yan Xu, Yihan Hu, Yinfei Pan, Ying Nie, Yingxue Zhang, Yufei Wang, Yubin Wang, Yuqi Cui, Yunsheng Ni, Zelin Chen, Zhao Liu, Zheyuan Bai, Zhicheng Liu, Zhenhang Weng, Zixuan Yue, Zongyuan Zhan. <br>
    Paper link: https://github.com/tangruiming/Selected-Publications/blob/master/Representative-2025-Pangu-Embeded-ArXiv.pdf
 6. FuXi-α: Scaling Recommendation Model with Feature Interaction Enhanced Transformer. *ArXiv 2025*. <br>
-   Yufei Ye, Wei Guo, Jin Yao Chin, Hao Wang, Hong Zhu, Xi Lin, Yuyang Ye, Yong Liu, Ruiming Tang, Defu Lian, Enhong Chen. <br>
+   Yufei Ye, Wei Guo, Jin Yao Chin, Hao Wang, Hong Zhu, Xi Lin, Yuyang Ye, Yong Liu, **Ruiming Tang**, Defu Lian, Enhong Chen. <br>
    Paper link: https://github.com/tangruiming/Selected-Publications/blob/master/Representative-2025-fuxi-alpha-ArXiv.pdf
 7. Towards open-world recommendation with knowledge augmentation from large language models. *RecSys 2024, Bari, Italy*. <br>
    Yunjia Xi, Weiwen Liu, Jianghao Lin, Xiaoling Cai, Hong Zhu, Jieming Zhu, Bo Chen, **Ruiming Tang**, Weinan Zhang, Yong Yu. <br>
