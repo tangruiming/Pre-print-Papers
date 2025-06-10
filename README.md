@@ -206,7 +206,7 @@ Zhongqian Fu, Ziyang Zhang, Zongyuan Zhan, Zuming Li. <br>
 
 
 ## Representative Services
-1. Year 2025: <br>
+### Year 2025
    PC member for SIGIR Full/Short track, KDD ADS/Research track, NeurIPS, ACL ARR. <br>
    SPC for RecSys Full/short track. <br>
 2. Year 2024: <br>
