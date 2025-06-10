@@ -24,6 +24,7 @@ This folder includes my first-authored papers, corresponding-authored papers and
    Paper link: https://github.com/tangruiming/Selected-Publications/blob/master/Corresponding-2024-IncMSR-WSDM.pdf
 5. HierRec: Scenario-Aware Hierarchical Modeling for Multi-scenario Recommendations. *CIKM 2024, Boise, Idaho, USA*. <br>
    Jingtong Gao, Bo Chen, Menghui Zhu, **Xiangyu Zhao***, Xiaopeng Li, Yuhao Wang, Yichao Wang, Huifeng Guo, **Ruiming Tang***. [*: I and Xiangyu are both corresponding authors.] <br>
+   Paper link: https://github.com/tangruiming/Selected-Publications/blob/master/Corresponding-2024-HierRec-CIKM.pdf
 6. AutoAssign+: Automatic Shared Embedding Assignment in streaming recommendation. *Knowledge and Information Systems 2024*. <br>
    Ziru Liu, Kecheng Chen, Fengyi Song, Bo Chen, **Xiangyu Zhao***, Huifeng Guo, **Ruiming Tang***. [*: I and Xiangyu are both corresponding authors.] <br>
    Paper link: https://github.com/tangruiming/Selected-Publications/blob/master/Corresponding-2024-AutoAssign%2B-KIS.pdf
