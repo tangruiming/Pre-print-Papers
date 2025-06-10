@@ -146,17 +146,20 @@ This folder includes my first-authored papers, corresponding-authored papers and
 
 
 ## Other Representative papers
-1. Pangu ultra: Pushing the limits of dense large language models on ascend npus. *ArXiv 2025*. <br>
-   Core Contributors: Yichun Yin, Wenyong Huang, Kaikai Song, Yehui Tang, Xueyu Wu, Wei Guo, Peng Guo, Yaoyuan Wang, Xiaojun Meng, Yasheng Wang, Dong Li, Can Chen, Dandan Tu, Yin Li, Fisher Yu, **Ruiming Tang**, Yunhe Wang.
-   Contributors: Baojun Wang, Bin Wang, Bo Wang, Boxiao Liu, Changzheng Zhang, Duyu Tang, Fei Mi, Hui Jin, Jiansheng Wei, Jiarui Qin, Jinpeng Li, Jun Zhao, Liqun Deng, Lin Li, Minghui Xu, Naifu Zhang, Nianzu Zheng, Qiang Li, Rongju Ruan, Shengjun Cheng, Tianyu Guo, Wei He, Wei Li, Weiwen Liu, Wulong Liu, Xinyi Dai, Yonghan Dong, Yu Pan, Yue Li, Yufei Wang, Yujun Li, Yunsheng Ni, Zhe Liu, Zhenhe Zhang, Zhicheng Liu.
+1. PanGu Ultra: Pushing the Limits of Dense Large Language Models on Ascend NPUs. *ArXiv 2025*. <br>
+   Core Contributors: Yichun Yin, Wenyong Huang, Kaikai Song, Yehui Tang, Xueyu Wu, Wei Guo, Peng Guo, Yaoyuan Wang, Xiaojun Meng, Yasheng Wang, Dong Li, Can Chen, Dandan Tu, Yin Li, Fisher Yu, **Ruiming Tang**, Yunhe Wang. <br>
+   Contributors: Baojun Wang, Bin Wang, Bo Wang, Boxiao Liu, Changzheng Zhang, Duyu Tang, Fei Mi, Hui Jin, Jiansheng Wei, Jiarui Qin, Jinpeng Li, Jun Zhao, Liqun Deng, Lin Li, Minghui Xu, Naifu Zhang, Nianzu Zheng, Qiang Li, Rongju Ruan, Shengjun Cheng, Tianyu Guo, Wei He, Wei Li, Weiwen Liu, Wulong Liu, Xinyi Dai, Yonghan Dong, Yu Pan, Yue Li, Yufei Wang, Yujun Li, Yunsheng Ni, Zhe Liu, Zhenhe Zhang, Zhicheng Liu. <br>
    Paper link: https://github.com/tangruiming/Selected-Publications/blob/master/Representative-2025-Pangu-Ultra-ArXiv.pdf
-2. Towards open-world recommendation with knowledge augmentation from large language models. *RecSys 2024, Bari, Italy*. <br>
+2. FuXi-α: Scaling Recommendation Model with Feature Interaction Enhanced Transformer. *ArXiv 2025*. <br>
+   Yufei Ye, Wei Guo, Jin Yao Chin, Hao Wang, Hong Zhu, Xi Lin, Yuyang Ye, Yong Liu, Ruiming Tang, Defu Lian, Enhong Chen. <br>
+   Paper link: https://github.com/tangruiming/Selected-Publications/blob/master/Representative-2025-fuxi-alpha-ArXiv.pdf
+3. Towards open-world recommendation with knowledge augmentation from large language models. *RecSys 2024, Bari, Italy*. <br>
    Yunjia Xi, Weiwen Liu, Jianghao Lin, Xiaoling Cai, Hong Zhu, Jieming Zhu, Bo Chen, **Ruiming Tang**, Weinan Zhang, Yong Yu. <br>
    Paper link: https://github.com/tangruiming/Selected-Publications/blob/master/Representative-2024-KAR-RecSys.pdf
-3. CTRL: Connect tabular and language model for ctr prediction. *TORS 2024*. <br>
+4. CTRL: Connect tabular and language model for ctr prediction. *TORS 2024*. <br>
    Xiangyang Li, Bo Chen, Lu Hou, **Ruiming Tang**. <br>
    Paper link: https://github.com/tangruiming/Selected-Publications/blob/master/Representative-2024-CTRL-TORS.pdf
-4. DeepFM: a factorization-machine based neural network for CTR prediction. *IJCAI 2017, Melbourne, Australia*. <br>
+5. DeepFM: a factorization-machine based neural network for CTR prediction. *IJCAI 2017, Melbourne, Australia*. <br>
    Huifeng Guo, **Ruiming Tang**, Yunming Ye, Zhenguo Li, Xiuqiang He. [This work was done when Huifeng was an intern in Noah's Ark Lab and I was his mentor in Huawei.] <br>
    Paper link: https://github.com/tangruiming/Selected-Publications/blob/master/Representative-2017-DeepFM-IJCAI.pdf
 
