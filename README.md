@@ -23,7 +23,7 @@ This folder includes my first-authored papers, corresponding-authored papers and
    Jingtong Gao, Zhaocheng Du, Xiaopeng Li, Yichao Wang, Xiangyang Li, Huifeng Guo, **Ruiming Tang***, **Xiangyu Zhao***. [*: I and Xiangyu are both corresponding authors.] <br>
    Paper link: https://github.com/tangruiming/Selected-Publications/blob/master/Corresponding-2025-SampleLLM-WWW.pdf
 5. A survey of personalization: From rag to agent. *ArXiv 2025*. <br>
-   Xiaopeng Li, Pengyue Jia, Derong Xu, Yi Wen, Yingyi Zhang, Wenlin Zhang, Wanyu Wang, Yichao Wang, Zhaocheng Du, Xiangyang Li, Yong Liu, Huifeng Guo, **Ruiming Tang***, **Xiangyu Zhao***. <br>
+   Xiaopeng Li, Pengyue Jia, Derong Xu, Yi Wen, Yingyi Zhang, Wenlin Zhang, Wanyu Wang, Yichao Wang, Zhaocheng Du, Xiangyang Li, Yong Liu, Huifeng Guo, **Ruiming Tang***, **Xiangyu Zhao***. [*: I and Xiangyu are both corresponding authors.] <br>
    Paper link: https://github.com/tangruiming/Selected-Publications/blob/master/Corresponding-2025-Personalization-Survey-ArXiv.pdf
 ### Year 2024
 6. D3: A Methodological Exploration of Domain Division, Modeling, and Balance in Multi-Domain Recommendations. *AAAI 2024, Vancouver, Canada*. <br>
