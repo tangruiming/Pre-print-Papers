@@ -10,6 +10,7 @@ This folder includes my first-authored papers, corresponding-authored papers and
 
 
 ## Corresponding-authored papers
+### Year 2025
 1. How can recommender systems benefit from large language models: A survey. *TOIS 2025*. <br>
    Jianghao Lin, Xinyi Dai, Yunjia Xi, Weiwen Liu, Bo Chen, Hao Zhang, Yong Liu, Chuhan Wu, Xiangyang Li, Chenxu Zhu, Huifeng Guo, Yong Yu, **Ruiming Tang***, **Weinan Zhang***. [*: I and Weinan are both corresponding authors.] <br>
    Paper link: https://github.com/tangruiming/Selected-Publications/blob/master/Corresponding-2025-HowLLM-Survey-TOIS.pdf
