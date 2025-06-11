@@ -207,17 +207,10 @@ Zhongqian Fu, Ziyang Zhang, Zongyuan Zhan, Zuming Li. <br>
 
 ## Representative Services
 ### Year 2025
-1. PC member for SIGIR Full/Short track, KDD ADS/Research track, NeurIPS, ACL ARR. <br>
+1. PC member for SIGIR Full/Short track, KDD ADS/Research track, RecSys LBR track, NeurIPS, ACL ARR. <br>
 2. SPC for RecSys Full/short track. <br>
 ### Year 2024
 1. I served as **one of the three PC chairs** for CCIR 2024, with Xiangnan He, Zhaochun Ren. (https://www.cips-ir.org.cn/CCIR2024/organization) <br>
 2. PC member for SIGIR Full/Short track, KDD ADS/Research track, CIKM ADS track. <br>
 3. SPC for RecSys Full/short track, CIKM research track. <br>
    
-
-
-
-
-
-
-###### remark: checking TEM4CTR, LIBER.
