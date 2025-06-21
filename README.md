@@ -12,7 +12,7 @@ This folder includes my first-authored papers, corresponding-authored papers and
 ## Corresponding-authored papers
 ### Year 2025
 1. How can recommender systems benefit from large language models: A survey. *TOIS 2025*. <br>
-   Jianghao Lin, Xinyi Dai, Yunjia Xi, Weiwen Liu, Bo Chen, Hao Zhang, Yong Liu, Chuhan Wu, Xiangyang Li, Chenxu Zhu, Huifeng Guo, Yong Yu, **Ruiming Tang***, **Weinan Zhang***. [*: I and Weinan are both corresponding authors.] <br>
+   Jianghao Lin, Xinyi Dai, Yunjia Xi, Weiwen Liu, Bo Chen, Hao Zhang, Yong Liu, Chuhan Wu, Xiangyang Li, Chenxu Zhu, Huifeng Guo, Yong Yu, **Ruiming Tang***, Weinan Zhang*. [*: I and Weinan are both corresponding authors.] <br>
    Paper link: https://github.com/tangruiming/Selected-Publications/blob/master/Corresponding-2025-HowLLM-Survey-TOIS.pdf
 2. CoIR: A comprehensive benchmark for code information retrieval models. *ACL 2025, Vienna, Austria*. <br> 
    Xiangyang Li, Kuicai Dong, Yi Quan Lee, Wei Xia, **Hao Zhang***, Xinyi Dai, Yasheng Wang, **Ruiming Tang***. [*: I and Hao are both corresponding authors.] <br>
